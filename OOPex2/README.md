@@ -1,5 +1,5 @@
 # OOP Ex2
-### By Shani and Avigail
+### By Shanny and Avigail
 
 
 ## Part A
